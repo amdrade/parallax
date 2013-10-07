@@ -1,0 +1,7 @@
+.wrap{ margin: auto; width: 980px;}
+.bola{border-radius: 100px; background-color: #00faf0;position: absolute;opacity: 0.7;}
+.pequeno{width: 50px;height: 50px;right: 1.3em !important;top: 75px;}
+.medio{width: 100px;height: 100px;left: 45% !important;top:20%;}
+.grande{width: 150px;height: 150px;left: 1.3em !important;top: 1.3em;}
+#parallax {background-color: #2323aa;position: relative;height: 200px;}
+#parallax-bg{width: auto;position: relative;height: 200px;overflow: hidden;background: #fff url('bg4.jpg') 0 0 no-repeat;margin-top: 40px;}
